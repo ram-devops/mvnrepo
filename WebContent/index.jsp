@@ -20,27 +20,27 @@ div.ex {
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
 				<tr>
-					<td>Student First Name </td>
+					<td> First Name </td>
 					<td><input type="text" name="fullname"/></td>
 				</tr>
 				<tr>
-					<td>Student Father Name</td>
+					<td> Father Name</td>
 					<td><input type="text" name="fullname"/></td>
 				</tr>
 				<tr>
-					<td> Student Permanent Address</td>
+					<td>  Permanent Address</td>
 					<td><input type="text" name="address"/></td>
 				</tr>
 				<tr>
-					<td>Student Age</td>
+					<td> Age</td>
 					<td><input type="text" name="age"/></td>
 				</tr>
 				<tr>
-					<td>Student Qualification</td>
+					<td> Qualification</td>
 					<td><input type="text" name="qual"/></td>
 				</tr>
 				<tr>
-					<td>Student Percentage</td>
+					<td> Percentage</td>
 					<td><input type="text" name="percent"/></td>
 				</tr>
 				<tr>
